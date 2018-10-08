@@ -1,0 +1,3 @@
+vvedte vashe vremya v min i sec
+vvedte vashe rasstoyanie v metrax
+v=7.263436 
